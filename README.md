@@ -1,2 +1,2 @@
-# AI-practivcal_1
+# AI-practical_1
 robot cleaner
